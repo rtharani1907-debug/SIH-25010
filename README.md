@@ -79,6 +79,7 @@ Deliver real-time, localized advisory on crop selection, pest control, and ferti
       background: #004080;
       color: white;
       padding: 15px;
+    }
     table {
       border-collapse: collapse;
       width: 90%;
@@ -90,7 +91,7 @@ Deliver real-time, localized advisory on crop selection, pest control, and ferti
       text-align: center;
     }
     th {
-      background-color: pink;
+      background-color: rgb(199, 43, 69);
     }
     td {
       background-color: plum;
@@ -131,7 +132,7 @@ Deliver real-time, localized advisory on crop selection, pest control, and ferti
     </tr>
   </table>
 </body>
-<img width="1329" height="770" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/c05104be-76d7-48f7-8510-a6eadd4b91f4" />
+<img width="400px" height="400px" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/c05104be-76d7-48f7-8510-a6eadd4b91f4" />
 
 ```
 ## Feasibility and Viability
