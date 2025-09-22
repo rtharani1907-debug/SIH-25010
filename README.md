@@ -41,113 +41,28 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-```
-<h3>SOLUTION</h3>
-<p style="font-family: Arial; font-size: 16px; font-style: italic; font-weight: bold;>
- Farmers can be provided with ai mobile app which ensures the eligibility of the soil to grow crops.Farmers can walk in, speak in their native language, and get personalized advice. No smartphone needed—farmers can call a toll-free number and talk to the AI in their dialect. Uses speech recognition and natural language processing to deliver crop, soil, and weather advice.It also can call even for updates and requirements.
-</p>
-<h3>Farmer-to-Farmer Learning Network</h3>
-<p style="font-family: Arial; font-size: 16px; font-style: italic; font-weight: bold;>
+Farmers can be provided with ai mobile app which ensures the eligibility of the soil to grow crops.Farmers can walk in, speak in their native language, and get personalized advice. No smartphone needed—farmers can call a toll-free number and talk to the AI in their dialect. Uses speech recognition and natural language processing to deliver crop, soil, and weather advice.It also can call even for updates and requirements.
+Farmer-to-Farmer Learning Network
 Verified farmers can upload short voice notes or videos sharing what worked for them.AI curates and translates these into region-specific tips. Builds trust by amplifying local success stories.Farmers receive NFC-enabled smart cards with their soil profile, crop history, and advisory logs. Can be scanned at kiosks or by extension officers for instant updates. Works even in low-connectivity zones. Combines satellite data, weather APIs, and local sensor inputs (where available). Predicts pest outbreaks, rainfall, and optimal sowing windows with high accuracy.
-</p>
-```
 
 ## Technical Approach
-```
-<h3>CORE GOALS</h3>
-<p style="font-family: Arial; font-size: 16px; font-style: italic; font-weight: bold;>
-Deliver real-time, localized advisory on crop selection, pest control, and fertilizer use. Ensure multilingual support and low digital literacy accessibility. Minimize chemical overuse and optimize input costs. </p>
-<h3>KEY FEATURES</h3>
-<li>  
-- 📍 Geo-tagged advisory based on farm location
-- 🧪 Soil health dashboard with fertilizer recommendations
-- 🌦 Weather-based alerts for pest outbreaks or irrigation
-- 🗣 Voice-based interface in local languages (Hindi, Marathi, etc.)
-- 📞 IVR helpline for non-smartphone users
-- 📊 Yield prediction models based on crop history and inputs
-  </li>
-<h3>PROGRAMMING LANGUAGES AND FRAMEWORKS</h3>
-<head>
-  <meta charset="UTF-8">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: pink;
-      text-align: center;
-    }
-    .header {
-      background: #004080;
-      color: white;
-      padding: 15px;
-    }
-    table {
-      border-collapse: collapse;
-      width: 90%;
-      margin: 20px auto;
-    }
-    th, td {
-      border: 1px solid black;
-      padding: 10px;
-      text-align: center;
-    }
-    th {
-      background-color: rgb(199, 43, 69);
-    }
-    td {
-      background-color: plum;
-    }
-  </style>
-</head>
-<body>
-  <table>
-    <tr>
-      <th>s.no</th>
-      <th>Programming language</th>
-      <th>uses</th>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>Python</td>
-      <td>used for data analysis</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Java</td>
-      <td>supply chain managment</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>C++</td>
-      <td>useful for embedded systems and IOT</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Raspbeery Pi</td>
-      <td>controlling irrigation, greenhouse automation</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Geo Pandas</td>
-      <td>mapping soil fertility, land-use</td>
-    </tr>
-  </table>
-</body>
-<img width="400px" height="400px" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/c05104be-76d7-48f7-8510-a6eadd4b91f4" />
+CORE GOALS
+Deliver real-time, localized advisory on crop selection, pest control, and fertilizer use. Ensure multilingual support and low digital literacy accessibility. Minimize chemical overuse and optimize input costs. 
+KEY FEATURES
+-  Geo-tagged advisory based on farm location
+-  Soil health dashboard with fertilizer recommendations
+-  Weather-based alerts for pest outbreaks or irrigation
+-  Voice-based interface in local languages (Hindi, Marathi, etc.)
+-  IVR helpline for non-smartphone users
+-  Yield prediction models based on crop history and inputs
+PROGRAMMING LANGUAGES AND FRAMEWORKS
+![hack agri](https://github.com/user-attachments/assets/d757dfb4-7a1d-41ef-a8c7-f3ad0af67233)
+<img width="869" height="508" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/5ea490e9-85e9-4e7b-99c3-61367a5fbcad" />
 
-```
 ## Feasibility and Viability
-```
-<p style="font-family: Arial; font-size: 16px; font-style: italic; font-weight: bold;>
   AI, NLP, and voice tech are mature enough to support multilingual, voice-first interfaces. Smartphones and mobile networks are increasingly accessible in rural India. Cloud infrastructure allows scalable deployment of advisory services. Soil health cards, weather APIs, satellite imagery, and crop databases are available through government and private channels. Farmer input and usage data can be collected to improve recommendations over time.Voice-based interfaces and dial-in systems can bypass literacy and smartphone barriers. NGOs, agri-cooperatives, and government extension programs are eager collaborators. Agri-tech startups can provide technical expertise and innovation.
-</p>
-<p style="font-family: Arial; font-size: 16px; font-style: italic; font-weight: bold;>
  ICT-based advisories have shown 20–30% yield improvements, which translates to higher income for farmers. Reduced input costs from optimized fertilizer and pesticide use. Potential for monetization via premium features, marketplace integration, or B2B partnerships.Empowers farmers with autonomy and scientific decision-making. Builds trust through community-led facilitation and local language support. Enhances gender inclusion if women are trained as facilitators. Promotes sustainable farming by reducing chemical overuse. Encourages crop rotation, soil health monitoring, and climate-resilient practices. More predictable outcomes reduce financial stress and vulnerability. Supports long-term planning and investment in farm improvements.
-</p>
-```
 ## Impact and Benefits
-```
-<ul>
-<li style="font-family: Arial; font-size: 16px; font-style: italic; font-weight: bold;>
  Improved Crop Yields by personalized, data-driven recommendations lead to better crop planning and input use.
  ICT-based advisories have shown to increase yields by 20–30%, directly boosting farmer income.
  Reduced Input Costs by Optimized fertilizer and pesticide usage prevents over-application.
@@ -157,14 +72,8 @@ Deliver real-time, localized advisory on crop selection, pest control, and ferti
  Reduces chemical runoff, soil degradation, and water pollution.
  Weather-based insights help farmers adapt to changing climate patterns.
  Encourages crop diversification and risk mitigation strategies.
-</li>
-</ul>
-```
 ## Research and References
-```
-<ul><li>
   www.mdpi.com
   https://jobya.com/library/roles/wq4k28ej/agricultural_software_developer/articles/wq4k28ej_breaking_into_agri_software_dev
   https://www.zealousys.com/blog/agriculture-software-development/
- </li></ul>
-```
+ 
