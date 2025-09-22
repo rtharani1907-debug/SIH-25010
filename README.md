@@ -44,6 +44,7 @@ Agriculture, FoodTech & Rural Development
 Farmers can be provided with ai mobile app which ensures the eligibility of the soil to grow crops.Farmers can walk in, speak in their native language, and get personalized advice. No smartphone needed—farmers can call a toll-free number and talk to the AI in their dialect. Uses speech recognition and natural language processing to deliver crop, soil, and weather advice.It also can call even for updates and requirements.
 Farmer-to-Farmer Learning Network
 Verified farmers can upload short voice notes or videos sharing what worked for them.AI curates and translates these into region-specific tips. Builds trust by amplifying local success stories.Farmers receive NFC-enabled smart cards with their soil profile, crop history, and advisory logs. Can be scanned at kiosks or by extension officers for instant updates. Works even in low-connectivity zones. Combines satellite data, weather APIs, and local sensor inputs (where available). Predicts pest outbreaks, rainfall, and optimal sowing windows with high accuracy.
+![agri solution](https://github.com/user-attachments/assets/2d654e95-a705-47bc-8705-985609616925)
 
 ## Technical Approach
 CORE GOALS
@@ -60,8 +61,8 @@ PROGRAMMING LANGUAGES AND FRAMEWORKS
 <img width="869" height="508" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/5ea490e9-85e9-4e7b-99c3-61367a5fbcad" />
 
 ## Feasibility and Viability
-  AI, NLP, and voice tech are mature enough to support multilingual, voice-first interfaces. Smartphones and mobile networks are increasingly accessible in rural India. Cloud infrastructure allows scalable deployment of advisory services. Soil health cards, weather APIs, satellite imagery, and crop databases are available through government and private channels. Farmer input and usage data can be collected to improve recommendations over time.Voice-based interfaces and dial-in systems can bypass literacy and smartphone barriers. NGOs, agri-cooperatives, and government extension programs are eager collaborators. Agri-tech startups can provide technical expertise and innovation.
- ICT-based advisories have shown 20–30% yield improvements, which translates to higher income for farmers. Reduced input costs from optimized fertilizer and pesticide use. Potential for monetization via premium features, marketplace integration, or B2B partnerships.Empowers farmers with autonomy and scientific decision-making. Builds trust through community-led facilitation and local language support. Enhances gender inclusion if women are trained as facilitators. Promotes sustainable farming by reducing chemical overuse. Encourages crop rotation, soil health monitoring, and climate-resilient practices. More predictable outcomes reduce financial stress and vulnerability. Supports long-term planning and investment in farm improvements.
+   AI, NLP, and voice tech are mature enough to support multilingual, voice-first interfaces. Smartphones and mobile networks are increasingly accessible in rural India. Cloud infrastructure allows scalable deployment of advisory services. Soil health cards, weather APIs, satellite imagery, and crop databases are available through government and private channels. Farmer input and usage data can be collected to improve recommendations over time.Voice-based interfaces and dial-in systems can bypass literacy and smartphone barriers. NGOs, agri-cooperatives, and government extension programs are eager collaborators. Agri-tech startups can provide technical expertise and innovation.
+  ICT-based advisories have shown 20–30% yield improvements, which translates to higher income for farmers. Reduced input costs from optimized fertilizer and pesticide use. Potential for monetization via premium features, marketplace integration, or B2B partnerships.Empowers farmers with autonomy and scientific decision-making. Builds trust through community-led facilitation and local language support. Enhances gender inclusion if women are trained as facilitators. Promotes sustainable farming by reducing chemical overuse. Encourages crop rotation, soil health monitoring, and climate-resilient practices. More predictable outcomes reduce financial stress and vulnerability. Supports long-term planning and investment in farm improvements.
 ## Impact and Benefits
  Improved Crop Yields by personalized, data-driven recommendations lead to better crop planning and input use.
  ICT-based advisories have shown to increase yields by 20–30%, directly boosting farmer income.
@@ -73,7 +74,7 @@ PROGRAMMING LANGUAGES AND FRAMEWORKS
  Weather-based insights help farmers adapt to changing climate patterns.
  Encourages crop diversification and risk mitigation strategies.
 ## Research and References
-  www.mdpi.com
-  https://jobya.com/library/roles/wq4k28ej/agricultural_software_developer/articles/wq4k28ej_breaking_into_agri_software_dev
-  https://www.zealousys.com/blog/agriculture-software-development/
+ - www.mdpi.com
+ - https://jobya.com/library/roles/wq4k28ej/agricultural_software_developer/articles/wq4k28ej_breaking_into_agri_software_dev
+ - https://www.zealousys.com/blog/agriculture-software-development/
  
