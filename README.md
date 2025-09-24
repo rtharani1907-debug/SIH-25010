@@ -44,7 +44,7 @@ Agriculture, FoodTech & Rural Development
 Farmers can be provided with ai mobile app which ensures the eligibility of the soil to grow crops.Farmers can walk in, speak in their native language, and get personalized advice. No smartphone needed—farmers can call a toll-free number and talk to the AI in their dialect. Uses speech recognition and natural language processing to deliver crop, soil, and weather advice.It also can call even for updates and requirements.
 Farmer-to-Farmer Learning Network
 Verified farmers can upload short voice notes or videos sharing what worked for them.AI curates and translates these into region-specific tips. Builds trust by amplifying local success stories.Farmers receive NFC-enabled smart cards with their soil profile, crop history, and advisory logs. Can be scanned at kiosks or by extension officers for instant updates. Works even in low-connectivity zones. Combines satellite data, weather APIs, and local sensor inputs (where available). Predicts pest outbreaks, rainfall, and optimal sowing windows with high accuracy.
-![agri solution](https://github.com/user-attachments/assets/2d654e95-a705-47bc-8705-985609616925)
+<img width="869" height="508" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/c9339b1f-50d3-4bd1-80eb-4cb779d069ed" />
 
 ## Technical Approach
 CORE GOALS
